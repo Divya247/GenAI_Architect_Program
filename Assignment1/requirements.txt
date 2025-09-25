@@ -1,0 +1,9 @@
+langchain==0.3.27
+langgraph==0.6.7
+langchain-openai==0.3.33
+langchain-community==0.3.29
+duckduckgo-search==8.1.1
+yfinance==0.2.65
+pydantic==2.11.7
+mlflow==3.3.2
+python-dotenv==1.1.1
