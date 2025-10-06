@@ -1,0 +1,220 @@
+{
+  "test_cases": [
+    {
+      "name": "Data Visualization Enthusiast",
+      "profile": "I've completed the 'Python Programming for Data Science' course and enjoy data visualization. What should I take next?",
+      "completed": [
+        "C016"
+      ],
+      "recommendations": [
+        {
+          "course_id": "C017",
+          "title": "R Programming and Statistical Analysis",
+          "description": "Get introduced to R for statistical computing and graphics. Topics include data structures, control flow, and functional programming. Use tidyverse libraries—dplyr, ggplot2, tidyr—for data manipulation and visualization. Explore hypothesis testing, regression analysis, and ANOVA. Through labs, apply statistical methods to real-world datasets and communicate results with reproducible R Markdown reports.",
+          "similarity_score": 0.2857142857142857,
+          "explanation": "This course 'R Programming and Statistical Analysis' is relevant to your profile."
+        },
+        {
+          "course_id": "C001",
+          "title": "Foundations of Machine Learning",
+          "description": "Understand foundational machine learning algorithms including regression, classification, clustering, and dimensionality reduction. This course covers data pre-processing, feature engineering, model selection, hyperparameter tuning, and evaluation metrics. Hands-on labs use scikit-learn and Python to implement end-to-end workflows on real-world datasets, preparing learners for practical machine learning applications with interactive engaging exercises.",
+          "similarity_score": 0.21428571428571427,
+          "explanation": "This course 'Foundations of Machine Learning' is relevant to your profile."
+        },
+        {
+          "course_id": "C006",
+          "title": "Data Engineering on AWS",
+          "description": "Build scalable data pipelines using AWS services. This course covers S3 data lakes, AWS Glue ETL jobs, AWS Lambda for serverless transformations, Amazon Redshift for warehousing, and AWS Kinesis for streaming ingestion. You’ll design end-to-end pipelines, automate workflows with AWS Step Functions, and monitor performance using CloudWatch, enabling robust, cost-effective data engineering solutions on the AWS cloud.",
+          "similarity_score": 0.21428571428571427,
+          "explanation": "This course 'Data Engineering on AWS' is relevant to your profile."
+        },
+        {
+          "course_id": "C011",
+          "title": "Big Data Analytics with Spark",
+          "description": "Process and analyze large datasets using Apache Spark and PySpark. The course covers RDDs, DataFrames, Spark SQL, and MLlib for machine learning at scale. You’ll learn cluster deployment on YARN or Kubernetes, performance tuning, and structured streaming for real-time analytics. Hands-on projects include building ETL pipelines and interactive dashboards, unlocking insights from big data.",
+          "similarity_score": 0.21428571428571427,
+          "explanation": "This course 'Big Data Analytics with Spark' is relevant to your profile."
+        },
+        {
+          "course_id": "C007",
+          "title": "Cloud Computing with Azure",
+          "description": "Master Microsoft Azure’s core services: virtual machines, Azure Functions, Azure SQL Database, Cosmos DB, and Azure Kubernetes Service. Learn to deploy scalable web applications, configure networking and security, and implement infrastructure-as-code with ARM templates. Hands-on labs guide you through resource provisioning, cost management, and best practices for high availability and disaster recovery in Azure.",
+          "similarity_score": 0.14285714285714285,
+          "explanation": "This course 'Cloud Computing with Azure' is relevant to your profile."
+        }
+      ]
+    },
+    {
+      "name": "Azure DevOps Learner",
+      "profile": "I know Azure basics and want to manage containers and build CI/CD pipelines. Recommend courses.",
+      "completed": [
+        "C007"
+      ],
+      "recommendations": [
+        {
+          "course_id": "C015",
+          "title": "Business Intelligence with Power BI",
+          "description": "Leverage Microsoft Power BI to build dynamic business intelligence solutions. Cover data ingestion, Power Query transformations, DAX calculations, and interactive report design. You’ll publish dashboards to the Power BI service, set up data refresh schedules, and manage security. Practical labs simulate enterprise scenarios, enabling you to deliver actionable insights at scale.",
+          "similarity_score": 0.18181818181818182,
+          "explanation": "This course 'Business Intelligence with Power BI' is relevant to your profile."
+        },
+        {
+          "course_id": "C025",
+          "title": "MLOps: Productionizing Machine Learning",
+          "description": "Master the practices needed to deploy and maintain ML models at scale. Topics include model versioning with MLflow, containerization, CI/CD for ML, monitoring with Prometheus, and data drift detection. You’ll build end-to-end pipelines that automate training, testing, deployment, and governance, ensuring robust, reproducible, and compliant machine learning systems in production environments.",
+          "similarity_score": 0.18181818181818182,
+          "explanation": "This course 'MLOps: Productionizing Machine Learning' is relevant to your profile."
+        },
+        {
+          "course_id": "C002",
+          "title": "Deep Learning with TensorFlow and Keras",
+          "description": "Explore neural network architectures using TensorFlow and Keras frameworks. This course covers feedforward networks, convolutional neural networks, recurrent neural networks, and transfer learning. Learn to build, train, evaluate, and optimize deep learning models for image classification, sequence modeling, and text processing. Includes hands-on labs and real-world project implementations with interactive exercises.",
+          "similarity_score": 0.09090909090909091,
+          "explanation": "This course 'Deep Learning with TensorFlow and Keras' is relevant to your profile."
+        },
+        {
+          "course_id": "C004",
+          "title": "Computer Vision and Image Processing",
+          "description": "Learn the principles of computer vision and image processing. Topics include filtering, edge detection, feature extraction, image segmentation, object detection, and image classification using CNNs. Hands-on labs in Python leverage OpenCV, scikit-image, and TensorFlow. By project’s end, you will build a pipeline to analyze and classify images, detect objects, and perform real-time video processing.",
+          "similarity_score": 0.09090909090909091,
+          "explanation": "This course 'Computer Vision and Image Processing' is relevant to your profile."
+        },
+        {
+          "course_id": "C005",
+          "title": "Reinforcement Learning Basics",
+          "description": "Get introduced to reinforcement learning paradigms, including Markov decision processes, Q-learning, policy gradients, and actor-critic methods. Learn to formulate environments, design reward functions, and implement agents using OpenAI Gym and TensorFlow. Through guided labs you’ll train agents for classic control tasks and grid-world scenarios, exploring exploration-exploitation trade-offs and model-free learning techniques.",
+          "similarity_score": 0.09090909090909091,
+          "explanation": "This course 'Reinforcement Learning Basics' is relevant to your profile."
+        }
+      ]
+    },
+    {
+      "name": "ML to Deep Learning",
+      "profile": "My background is in ML fundamentals; I'd like to specialize in neural networks and production workflows.",
+      "completed": [
+        "C001"
+      ],
+      "recommendations": [
+        {
+          "course_id": "C002",
+          "title": "Deep Learning with TensorFlow and Keras",
+          "description": "Explore neural network architectures using TensorFlow and Keras frameworks. This course covers feedforward networks, convolutional neural networks, recurrent neural networks, and transfer learning. Learn to build, train, evaluate, and optimize deep learning models for image classification, sequence modeling, and text processing. Includes hands-on labs and real-world project implementations with interactive exercises.",
+          "similarity_score": 0.25,
+          "explanation": "This course 'Deep Learning with TensorFlow and Keras' is relevant to your profile."
+        },
+        {
+          "course_id": "C009",
+          "title": "Containerization with Docker and Kubernetes",
+          "description": "Learn container fundamentals with Docker: images, containers, and Compose. Then advance to Kubernetes for orchestration: pods, deployments, services, and ingress. This course covers cluster provisioning, autoscaling, rolling updates, and Helm chart packaging. Hands-on labs deploy microservices architectures on a local or cloud-based Kubernetes cluster, ensuring reliability, scalability, and streamlined DevOps workflows.",
+          "similarity_score": 0.125,
+          "explanation": "This course 'Containerization with Docker and Kubernetes' is relevant to your profile."
+        },
+        {
+          "course_id": "C020",
+          "title": "User Experience (UX) Design Principles",
+          "description": "Learn UX design fundamentals: user research, personas, journey mapping, wireframing, and prototyping. Utilize tools like Figma to create interactive mockups. Topics include usability testing, accessibility standards, and design systems. Through project-based labs, you’ll design and test intuitive interfaces, apply heuristics, and iterate based on user feedback to craft delightful digital experiences.",
+          "similarity_score": 0.125,
+          "explanation": "This course 'User Experience (UX) Design Principles' is relevant to your profile."
+        },
+        {
+          "course_id": "C024",
+          "title": "Augmented and Virtual Reality Development",
+          "description": "Dive into AR/VR concepts, device ecosystems, and development frameworks like Unity and Unreal Engine. Learn to build immersive experiences, handle 3D assets, and implement input interactions. Topics cover spatial computing, UI/UX for XR, and performance optimization. Through labs, you’ll create both AR and VR prototypes for education, training, or entertainment use cases.",
+          "similarity_score": 0.125,
+          "explanation": "This course 'Augmented and Virtual Reality Development' is relevant to your profile."
+        },
+        {
+          "course_id": "C025",
+          "title": "MLOps: Productionizing Machine Learning",
+          "description": "Master the practices needed to deploy and maintain ML models at scale. Topics include model versioning with MLflow, containerization, CI/CD for ML, monitoring with Prometheus, and data drift detection. You’ll build end-to-end pipelines that automate training, testing, deployment, and governance, ensuring robust, reproducible, and compliant machine learning systems in production environments.",
+          "similarity_score": 0.125,
+          "explanation": "This course 'MLOps: Productionizing Machine Learning' is relevant to your profile."
+        }
+      ]
+    },
+    {
+      "name": "Microservices & Kubernetes",
+      "profile": "I want to learn to build and deploy microservices with Kubernetes—what courses fit best?",
+      "completed": [],
+      "recommendations": [
+        {
+          "course_id": "C009",
+          "title": "Containerization with Docker and Kubernetes",
+          "description": "Learn container fundamentals with Docker: images, containers, and Compose. Then advance to Kubernetes for orchestration: pods, deployments, services, and ingress. This course covers cluster provisioning, autoscaling, rolling updates, and Helm chart packaging. Hands-on labs deploy microservices architectures on a local or cloud-based Kubernetes cluster, ensuring reliability, scalability, and streamlined DevOps workflows.",
+          "similarity_score": 0.4444444444444444,
+          "explanation": "This course 'Containerization with Docker and Kubernetes' is relevant to your profile."
+        },
+        {
+          "course_id": "C010",
+          "title": "APIs and Microservices Architecture",
+          "description": "Design and implement RESTful and GraphQL APIs using Node.js, Express, or Python FastAPI. Learn microservices patterns: service discovery, circuit breakers, and API gateways. Topics include containerized deployment, versioning strategies, and security best practices (OAuth2, JWT). Labs guide you through building, testing, and deploying interconnected services, enabling scalable, maintainable distributed systems.",
+          "similarity_score": 0.4444444444444444,
+          "explanation": "This course 'APIs and Microservices Architecture' is relevant to your profile."
+        },
+        {
+          "course_id": "C011",
+          "title": "Big Data Analytics with Spark",
+          "description": "Process and analyze large datasets using Apache Spark and PySpark. The course covers RDDs, DataFrames, Spark SQL, and MLlib for machine learning at scale. You’ll learn cluster deployment on YARN or Kubernetes, performance tuning, and structured streaming for real-time analytics. Hands-on projects include building ETL pipelines and interactive dashboards, unlocking insights from big data.",
+          "similarity_score": 0.4444444444444444,
+          "explanation": "This course 'Big Data Analytics with Spark' is relevant to your profile."
+        },
+        {
+          "course_id": "C025",
+          "title": "MLOps: Productionizing Machine Learning",
+          "description": "Master the practices needed to deploy and maintain ML models at scale. Topics include model versioning with MLflow, containerization, CI/CD for ML, monitoring with Prometheus, and data drift detection. You’ll build end-to-end pipelines that automate training, testing, deployment, and governance, ensuring robust, reproducible, and compliant machine learning systems in production environments.",
+          "similarity_score": 0.4444444444444444,
+          "explanation": "This course 'MLOps: Productionizing Machine Learning' is relevant to your profile."
+        },
+        {
+          "course_id": "C002",
+          "title": "Deep Learning with TensorFlow and Keras",
+          "description": "Explore neural network architectures using TensorFlow and Keras frameworks. This course covers feedforward networks, convolutional neural networks, recurrent neural networks, and transfer learning. Learn to build, train, evaluate, and optimize deep learning models for image classification, sequence modeling, and text processing. Includes hands-on labs and real-world project implementations with interactive exercises.",
+          "similarity_score": 0.3333333333333333,
+          "explanation": "This course 'Deep Learning with TensorFlow and Keras' is relevant to your profile."
+        }
+      ]
+    },
+    {
+      "name": "Blockchain Beginner",
+      "profile": "I'm interested in blockchain and smart contracts but have no prior experience. Which courses do you suggest?",
+      "completed": [],
+      "recommendations": [
+        {
+          "course_id": "C023",
+          "title": "Blockchain Technology and Smart Contracts",
+          "description": "Understand blockchain fundamentals: cryptographic hashing, consensus algorithms, and distributed ledgers. Learn to develop smart contracts using Solidity on Ethereum. Topics include token standards (ERC-20, ERC-721), decentralized application patterns, and security best practices. Hands-on labs deploy contracts, interact via Web3.js, and build a simple decentralized marketplace.",
+          "similarity_score": 0.3,
+          "explanation": "This course 'Blockchain Technology and Smart Contracts' is relevant to your profile."
+        },
+        {
+          "course_id": "C018",
+          "title": "Product Management Essentials",
+          "description": "Understand the product lifecycle from ideation to launch. Topics cover market research, roadmap planning, agile development, and stakeholder management. Learn to write user stories, prioritize features, and measure success with KPIs. Hands-on case studies guide you through creating product requirement documents, conducting customer interviews, and iterating based on feedback to drive product-market fit.",
+          "similarity_score": 0.1,
+          "explanation": "This course 'Product Management Essentials' is relevant to your profile."
+        },
+        {
+          "course_id": "C022",
+          "title": "Internet of Things (IoT) Development",
+          "description": "Explore IoT architecture, sensors, and edge computing. Use Raspberry Pi or Arduino to collect data, process it with MQTT, and store it in cloud services. Topics include device provisioning, security, and real-time analytics. Hands-on projects build smart home prototypes and industrial monitoring solutions, teaching you end-to-end IoT development and deployment best practices.",
+          "similarity_score": 0.1,
+          "explanation": "This course 'Internet of Things (IoT) Development' is relevant to your profile."
+        },
+        {
+          "course_id": "C001",
+          "title": "Foundations of Machine Learning",
+          "description": "Understand foundational machine learning algorithms including regression, classification, clustering, and dimensionality reduction. This course covers data pre-processing, feature engineering, model selection, hyperparameter tuning, and evaluation metrics. Hands-on labs use scikit-learn and Python to implement end-to-end workflows on real-world datasets, preparing learners for practical machine learning applications with interactive engaging exercises.",
+          "similarity_score": 0.0,
+          "explanation": "This course 'Foundations of Machine Learning' is relevant to your profile."
+        },
+        {
+          "course_id": "C002",
+          "title": "Deep Learning with TensorFlow and Keras",
+          "description": "Explore neural network architectures using TensorFlow and Keras frameworks. This course covers feedforward networks, convolutional neural networks, recurrent neural networks, and transfer learning. Learn to build, train, evaluate, and optimize deep learning models for image classification, sequence modeling, and text processing. Includes hands-on labs and real-world project implementations with interactive exercises.",
+          "similarity_score": 0.0,
+          "explanation": "This course 'Deep Learning with TensorFlow and Keras' is relevant to your profile."
+        }
+      ]
+    }
+  ]
+}
